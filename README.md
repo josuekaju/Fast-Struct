@@ -1,2 +1,28 @@
-# Fast-Struct
-Input your floorplan and receive in 15seconds architectonical 3d model and pre-project structural (pillara, beams and slabs) in cad and IFC. Programs like Revit, cypecad accept extern steel details . Softwares  like whit  TQS, Eberick dont acepet steeal details, only open geometry and structural elements
+# Fast Struct
+
+Input your floorplan and receive in 15 seconds architectural 3D model and pre-project structural (pillars, beams and slabs) in CAD and IFC.
+
+> Este repositório **não contém o código do software**. Aqui você vai encontrar apenas **GIFs/vídeos** demonstrando o funcionamento.
+
+## O que o Fast Struct entrega
+
+- Modelo 3D arquitetônico a partir da planta (entrada)
+- Pré-projeto estrutural:
+  - Pilares
+  - Vigas
+  - Lajes
+- Exportação de outputs:
+  - **CAD/DXF**
+  - **IFC**
+
+## Compatibilidade (importação)
+
+- Revit, CYPECAD: geralmente aceitam detalhes/armaduras externas
+- TQS, Eberick: geralmente **não** aceitam detalhes/armaduras; normalmente importam apenas:
+  - geometria
+  - e elementos estruturais (pilares/vigas/lajes)
+
+## Demonstrações (GIFs / Vídeos)
+
+https://github.com/user-attachments/assets/01b22da6-067e-45b4-8f3e-fc9b69706a8c
+
