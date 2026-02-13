@@ -24,5 +24,6 @@ Input your floorplan and receive in 15 seconds architectural 3D model and pre-pr
 
 ## Demonstrações (GIFs / Vídeos)
 
-https://github.com/user-attachments/assets/01b22da6-067e-45b4-8f3e-fc9b69706a8c
 
+<video src="[LINK_DO_SEU_VIDEO.mp4](https://github.com/user-attachments/assets/01b22da6-067e-45b4-8f3e-fc9b69706a8c
+)" autoplay loop muted playsinline controls="false" style="max-width:100%;"></video>
