@@ -22,8 +22,20 @@ Input your floorplan and receive in 15 seconds architectural 3D model and pre-pr
   - geometria
   - e elementos estruturais (pilares/vigas/lajes)
 
-## Demonstrações (GIFs / Vídeos)
+## 3 Modos de uso.
+
+## 100% automatico
+![automatico_](https://github.com/user-attachments/assets/edcbfd0f-5fd0-4e88-8176-c567b3ec5330)
+
+## Validação com IA
+## Validação humana
+![validador](https://github.com/user-attachments/assets/2edc40fe-3769-4470-a9b1-d152c512c290)
+
+## Resultados
+![DXF](https://github.com/user-attachments/assets/df9ec574-6ff7-40f3-95fc-736481eedcf0)
+![relatorio](https://github.com/user-attachments/assets/04b78548-3c9d-4179-ab27-9e470aeec040)
+![nomenclatura](https://github.com/user-attachments/assets/59f2fdd9-9662-4693-afd3-b25a0c8c1cee)
+![multi](https://github.com/user-attachments/assets/bd888816-eab0-4af4-aa56-f0ec212c0167)
 
 
-<video src="[LINK_DO_SEU_VIDEO.mp4](https://github.com/user-attachments/assets/01b22da6-067e-45b4-8f3e-fc9b69706a8c
-)" autoplay loop muted playsinline controls="false" style="max-width:100%;"></video>
+
