@@ -17,10 +17,11 @@ Input your floorplan and receive in 15 seconds architectural 3D model and pre-pr
 
 ## Compatibilidade (importação)
 
+Softwares que realizam o proprio calculo de detalhamento de armadura nao aceitam detalhamento de fonte externa.
+
 - Revit, CYPECAD: geralmente aceitam detalhes/armaduras externas
-- TQS, Eberick: geralmente **não** aceitam detalhes/armaduras; normalmente importam apenas:
-  - geometria
-  - e elementos estruturais (pilares/vigas/lajes)
+- TQS, Eberick: não aceitam detalhes/armaduras; importam apenas :
+  - geometria e elementos estruturais (pilares/vigas/lajes)
 
 ## 3 Modos de uso.
 
